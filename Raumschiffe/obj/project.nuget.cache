@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BoIVDmU0gpXLQ2/psVYQC6hiX5Gl0YXlpMKTsX19TW4jjBMtXzoW31xHbT6aauII32Z9e8DDxry1mu+P6oUykQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mentor.Govori\\source\\repos\\BMITWIM\\Raumschiffe\\Raumschiffe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mentor.Govori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
